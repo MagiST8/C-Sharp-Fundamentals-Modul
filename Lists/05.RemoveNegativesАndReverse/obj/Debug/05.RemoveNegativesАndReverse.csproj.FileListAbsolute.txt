@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\bin\Debug\05.RemoveNegativesАndReverse.exe.config
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\bin\Debug\05.RemoveNegativesАndReverse.exe
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\bin\Debug\05.RemoveNegativesАndReverse.pdb
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\obj\Debug\05.RemoveNegativesАndReverse.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\obj\Debug\05.RemoveNegativesАndReverse.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\obj\Debug\05.RemoveNegativesАndReverse.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\obj\Debug\05.RemoveNegativesАndReverse.exe
+C:\Users\Magi\source\repos\Lists\05.RemoveNegativesАndReverse\obj\Debug\05.RemoveNegativesАndReverse.pdb

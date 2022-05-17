@@ -1,0 +1,6 @@
+C:\Users\Magi\source\repos\DataType\ReversedChars\obj\Debug\ReversedChars.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\DataType\ReversedChars\obj\Debug\ReversedChars.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\ReversedChars\bin\Debug\ReversedChars.exe
+C:\Users\Magi\source\repos\DataType\ReversedChars\bin\Debug\ReversedChars.pdb
+C:\Users\Magi\source\repos\DataType\ReversedChars\obj\Debug\ReversedChars.exe
+C:\Users\Magi\source\repos\DataType\ReversedChars\obj\Debug\ReversedChars.pdb

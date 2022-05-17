@@ -1,0 +1,5 @@
+C:\Users\Magi\source\repos\DataType\PoundsToDollars\bin\Debug\PoundsToDollars.exe
+C:\Users\Magi\source\repos\DataType\PoundsToDollars\bin\Debug\PoundsToDollars.pdb
+C:\Users\Magi\source\repos\DataType\PoundsToDollars\obj\Debug\PoundsToDollars.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\PoundsToDollars\obj\Debug\PoundsToDollars.exe
+C:\Users\Magi\source\repos\DataType\PoundsToDollars\obj\Debug\PoundsToDollars.pdb

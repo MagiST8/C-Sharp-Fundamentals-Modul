@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\Methods\08.MathPower\bin\Debug\08.MathPower.exe.config
+C:\Users\Magi\source\repos\Methods\08.MathPower\bin\Debug\08.MathPower.exe
+C:\Users\Magi\source\repos\Methods\08.MathPower\bin\Debug\08.MathPower.pdb
+C:\Users\Magi\source\repos\Methods\08.MathPower\obj\Debug\08.MathPower.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\08.MathPower\obj\Debug\08.MathPower.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\08.MathPower\obj\Debug\08.MathPower.exe
+C:\Users\Magi\source\repos\Methods\08.MathPower\obj\Debug\08.MathPower.pdb

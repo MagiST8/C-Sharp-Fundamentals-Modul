@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\bin\Debug\05.AddAndSubtract.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\bin\Debug\05.AddAndSubtract.exe
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\bin\Debug\05.AddAndSubtract.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.exe
+C:\Users\Magi\source\repos\ExerciseMethod\05.AddAndSubtract\obj\Debug\05.AddAndSubtract.pdb

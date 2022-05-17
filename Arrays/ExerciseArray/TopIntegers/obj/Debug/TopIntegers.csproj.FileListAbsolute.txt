@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\bin\Debug\TopIntegers.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\bin\Debug\TopIntegers.exe
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\bin\Debug\TopIntegers.pdb
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\obj\Debug\TopIntegers.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\obj\Debug\TopIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\obj\Debug\TopIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\obj\Debug\TopIntegers.exe
+C:\Users\Magi\source\repos\ExerciseArray\TopIntegers\obj\Debug\TopIntegers.pdb

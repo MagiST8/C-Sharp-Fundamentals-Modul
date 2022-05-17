@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Lists\03.MergingLists\bin\Debug\03.MergingLists.exe.config
+C:\Users\Magi\source\repos\Lists\03.MergingLists\bin\Debug\03.MergingLists.exe
+C:\Users\Magi\source\repos\Lists\03.MergingLists\bin\Debug\03.MergingLists.pdb
+C:\Users\Magi\source\repos\Lists\03.MergingLists\obj\Debug\03.MergingLists.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Lists\03.MergingLists\obj\Debug\03.MergingLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Lists\03.MergingLists\obj\Debug\03.MergingLists.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lists\03.MergingLists\obj\Debug\03.MergingLists.exe
+C:\Users\Magi\source\repos\Lists\03.MergingLists\obj\Debug\03.MergingLists.pdb

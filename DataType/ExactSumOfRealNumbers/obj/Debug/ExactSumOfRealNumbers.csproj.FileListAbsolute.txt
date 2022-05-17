@@ -1,0 +1,6 @@
+C:\Users\Magi\source\repos\DataType\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.exe
+C:\Users\Magi\source\repos\DataType\ExactSumOfRealNumbers\bin\Debug\ExactSumOfRealNumbers.pdb
+C:\Users\Magi\source\repos\DataType\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\DataType\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.exe
+C:\Users\Magi\source\repos\DataType\ExactSumOfRealNumbers\obj\Debug\ExactSumOfRealNumbers.pdb

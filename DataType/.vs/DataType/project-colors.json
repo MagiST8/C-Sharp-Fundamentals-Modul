@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7fd2fa85-99b2-4417-b3e3-b600a8ae9e8a": {
+      "ProjectGuid": "7fd2fa85-99b2-4417-b3e3-b600a8ae9e8a",
+      "DisplayName": "DataType",
+      "ColorIndex": 0
+    },
+    "2629bfa5-7e30-45d5-bf57-0ab42dceeb9a": {
+      "ProjectGuid": "2629bfa5-7e30-45d5-bf57-0ab42dceeb9a",
+      "DisplayName": "ConsoleApp1",
+      "ColorIndex": 1
+    },
+    "59b5a7d1-91e6-4d72-a43b-f293d6aa681f": {
+      "ProjectGuid": "59b5a7d1-91e6-4d72-a43b-f293d6aa681f",
+      "DisplayName": "PoundsToDollars",
+      "ColorIndex": 2
+    },
+    "953abb10-1cf6-4aa5-8374-6bc1c5c393ea": {
+      "ProjectGuid": "953abb10-1cf6-4aa5-8374-6bc1c5c393ea",
+      "DisplayName": "ExactSumOfRealNumbers",
+      "ColorIndex": 3
+    },
+    "e217d023-f4e7-4da3-8eb6-797d726090fe": {
+      "ProjectGuid": "e217d023-f4e7-4da3-8eb6-797d726090fe",
+      "DisplayName": "CenturiesToMinutes",
+      "ColorIndex": 4
+    },
+    "efd8250a-3a6e-434b-9d60-7c93d2b3cbcf": {
+      "ProjectGuid": "efd8250a-3a6e-434b-9d60-7c93d2b3cbcf",
+      "DisplayName": "SpecialNumbers",
+      "ColorIndex": 5
+    },
+    "b288d533-4ea3-4ff5-8669-58e6639a50be": {
+      "ProjectGuid": "b288d533-4ea3-4ff5-8669-58e6639a50be",
+      "DisplayName": "ReversedChars",
+      "ColorIndex": 6
+    },
+    "a6f13531-157a-4257-9503-5b09706fa6af": {
+      "ProjectGuid": "a6f13531-157a-4257-9503-5b09706fa6af",
+      "DisplayName": "ConcatNames",
+      "ColorIndex": 7
+    },
+    "0ea31f23-7fc4-4259-b89a-79755f0cde89": {
+      "ProjectGuid": "0ea31f23-7fc4-4259-b89a-79755f0cde89",
+      "DisplayName": "TownInfo",
+      "ColorIndex": 8
+    },
+    "5b21d254-fe5f-47fc-9bf0-067faec06d02": {
+      "ProjectGuid": "5b21d254-fe5f-47fc-9bf0-067faec06d02",
+      "DisplayName": "CharsToString",
+      "ColorIndex": 9
+    },
+    "3df551c3-3352-40ce-aee5-7153df6044cb": {
+      "ProjectGuid": "3df551c3-3352-40ce-aee5-7153df6044cb",
+      "DisplayName": "LowerOrUpper",
+      "ColorIndex": 10
+    },
+    "c8840333-f5fc-4ffc-ba60-2503307d777c": {
+      "ProjectGuid": "c8840333-f5fc-4ffc-ba60-2503307d777c",
+      "DisplayName": "RefactorSpecialNumbers",
+      "ColorIndex": 11
+    }
+  },
+  "NextColorIndex": 12
+}

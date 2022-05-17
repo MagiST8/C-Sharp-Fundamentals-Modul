@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\bin\Debug\06.CalculateRectangleArea.exe.config
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\bin\Debug\06.CalculateRectangleArea.exe
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\bin\Debug\06.CalculateRectangleArea.pdb
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\obj\Debug\06.CalculateRectangleArea.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\obj\Debug\06.CalculateRectangleArea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\obj\Debug\06.CalculateRectangleArea.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\obj\Debug\06.CalculateRectangleArea.exe
+C:\Users\Magi\source\repos\Methods\06.CalculateRectangleArea\obj\Debug\06.CalculateRectangleArea.pdb

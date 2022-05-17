@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\bin\Debug\10.MultiplyEvensByOdds.exe.config
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\bin\Debug\10.MultiplyEvensByOdds.exe
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\bin\Debug\10.MultiplyEvensByOdds.pdb
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\obj\Debug\10.MultiplyEvensByOdds.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\obj\Debug\10.MultiplyEvensByOdds.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\obj\Debug\10.MultiplyEvensByOdds.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\obj\Debug\10.MultiplyEvensByOdds.exe
+C:\Users\Magi\source\repos\Methods\10.MultiplyEvensByOdds\obj\Debug\10.MultiplyEvensByOdds.pdb

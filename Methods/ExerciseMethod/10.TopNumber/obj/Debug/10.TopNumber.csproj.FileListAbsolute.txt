@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\bin\Debug\10.TopNumber.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\bin\Debug\10.TopNumber.exe
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\bin\Debug\10.TopNumber.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\obj\Debug\10.TopNumber.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\obj\Debug\10.TopNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\obj\Debug\10.TopNumber.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\obj\Debug\10.TopNumber.exe
+C:\Users\Magi\source\repos\ExerciseMethod\10.TopNumber\obj\Debug\10.TopNumber.pdb

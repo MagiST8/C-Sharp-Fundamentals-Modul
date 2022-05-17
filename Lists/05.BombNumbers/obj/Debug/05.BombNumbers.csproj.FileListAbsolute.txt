@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\bin\Debug\05.BombNumbers.exe.config
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\bin\Debug\05.BombNumbers.exe
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\bin\Debug\05.BombNumbers.pdb
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\obj\Debug\05.BombNumbers.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\obj\Debug\05.BombNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\obj\Debug\05.BombNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\obj\Debug\05.BombNumbers.exe
+C:\Users\Magi\source\repos\ExerciseLists\05.BombNumbers\obj\Debug\05.BombNumbers.pdb

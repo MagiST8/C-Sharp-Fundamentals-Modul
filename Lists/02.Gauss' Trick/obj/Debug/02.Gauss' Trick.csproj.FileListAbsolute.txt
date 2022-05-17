@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\bin\Debug\02.Gauss' Trick.exe.config
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\bin\Debug\02.Gauss' Trick.exe
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\bin\Debug\02.Gauss' Trick.pdb
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\obj\Debug\02.Gauss' Trick.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\obj\Debug\02.Gauss' Trick.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\obj\Debug\02.Gauss' Trick.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\obj\Debug\02.Gauss' Trick.exe
+C:\Users\Magi\source\repos\Lists\02.Gauss' Trick\obj\Debug\02.Gauss' Trick.pdb

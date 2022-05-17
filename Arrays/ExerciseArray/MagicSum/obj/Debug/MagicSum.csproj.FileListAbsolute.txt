@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\bin\Debug\MagicSum.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\bin\Debug\MagicSum.exe
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\bin\Debug\MagicSum.pdb
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\obj\Debug\MagicSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\obj\Debug\MagicSum.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\obj\Debug\MagicSum.exe
+C:\Users\Magi\source\repos\ExerciseArray\MagicSum\obj\Debug\MagicSum.pdb

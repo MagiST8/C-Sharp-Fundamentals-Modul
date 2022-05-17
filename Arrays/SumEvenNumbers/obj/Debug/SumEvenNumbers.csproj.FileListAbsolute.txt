@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe.config
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\bin\Debug\SumEvenNumbers.exe
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\bin\Debug\SumEvenNumbers.pdb
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.exe
+C:\Users\Magi\source\repos\Arrays\SumEvenNumbers\obj\Debug\SumEvenNumbers.pdb

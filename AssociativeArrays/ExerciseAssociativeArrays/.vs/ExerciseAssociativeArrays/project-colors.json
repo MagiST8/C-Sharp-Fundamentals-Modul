@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1896b77f-94b8-475f-bc51-79fa9acd1291": {
+      "ProjectGuid": "1896b77f-94b8-475f-bc51-79fa9acd1291",
+      "DisplayName": "ExerciseAssociativeArrays",
+      "ColorIndex": 0
+    },
+    "ef54dfaf-4b74-4742-a89f-5de27650bc0d": {
+      "ProjectGuid": "ef54dfaf-4b74-4742-a89f-5de27650bc0d",
+      "DisplayName": "02.AminerTask",
+      "ColorIndex": 1
+    },
+    "6acc52ea-6621-4456-937b-b90aafaedd4e": {
+      "ProjectGuid": "6acc52ea-6621-4456-937b-b90aafaedd4e",
+      "DisplayName": "03.LegendaryFarming",
+      "ColorIndex": 2
+    },
+    "364bbb50-f436-40f2-a420-24f893d3e6a0": {
+      "ProjectGuid": "364bbb50-f436-40f2-a420-24f893d3e6a0",
+      "DisplayName": "04.Orders",
+      "ColorIndex": 3
+    },
+    "64616c83-3e39-4226-8a30-bb27f71cd914": {
+      "ProjectGuid": "64616c83-3e39-4226-8a30-bb27f71cd914",
+      "DisplayName": "05.SoftUniParking",
+      "ColorIndex": 4
+    },
+    "73c1faea-5ed4-4bc9-842b-55ef8594110c": {
+      "ProjectGuid": "73c1faea-5ed4-4bc9-842b-55ef8594110c",
+      "DisplayName": "06.Courses",
+      "ColorIndex": 5
+    },
+    "e39467fd-feea-4362-abba-8e610aa9b754": {
+      "ProjectGuid": "e39467fd-feea-4362-abba-8e610aa9b754",
+      "DisplayName": "07.StudentAcademy",
+      "ColorIndex": 6
+    },
+    "18f6f2ca-a872-435b-8095-487085c5aaaa": {
+      "ProjectGuid": "18f6f2ca-a872-435b-8095-487085c5aaaa",
+      "DisplayName": "08.CompanyUsers",
+      "ColorIndex": 7
+    }
+  },
+  "NextColorIndex": 8
+}

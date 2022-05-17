@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\bin\Debug\ArrayRotation.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\bin\Debug\ArrayRotation.exe
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\bin\Debug\ArrayRotation.pdb
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\obj\Debug\ArrayRotation.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\obj\Debug\ArrayRotation.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\obj\Debug\ArrayRotation.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\obj\Debug\ArrayRotation.exe
+C:\Users\Magi\source\repos\ExerciseArray\ArrayRotation\obj\Debug\ArrayRotation.pdb

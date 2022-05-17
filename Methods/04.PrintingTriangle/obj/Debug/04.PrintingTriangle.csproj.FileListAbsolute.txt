@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\bin\Debug\04.PrintingTriangle.exe.config
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\bin\Debug\04.PrintingTriangle.exe
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\bin\Debug\04.PrintingTriangle.pdb
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.exe
+C:\Users\Magi\source\repos\Methods\04.PrintingTriangle\obj\Debug\04.PrintingTriangle.pdb

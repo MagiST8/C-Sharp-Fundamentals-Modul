@@ -1,0 +1,5 @@
+C:\Users\Magi\source\repos\DataType\TownInfo\obj\Debug\TownInfo.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\TownInfo\bin\Debug\TownInfo.exe
+C:\Users\Magi\source\repos\DataType\TownInfo\bin\Debug\TownInfo.pdb
+C:\Users\Magi\source\repos\DataType\TownInfo\obj\Debug\TownInfo.exe
+C:\Users\Magi\source\repos\DataType\TownInfo\obj\Debug\TownInfo.pdb

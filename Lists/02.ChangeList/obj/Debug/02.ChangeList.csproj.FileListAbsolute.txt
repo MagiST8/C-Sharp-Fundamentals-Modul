@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\bin\Debug\02.ChangeList.exe.config
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\bin\Debug\02.ChangeList.exe
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\bin\Debug\02.ChangeList.pdb
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\obj\Debug\02.ChangeList.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\obj\Debug\02.ChangeList.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\obj\Debug\02.ChangeList.exe
+C:\Users\Magi\source\repos\ExerciseLists\02.ChangeList\obj\Debug\02.ChangeList.pdb

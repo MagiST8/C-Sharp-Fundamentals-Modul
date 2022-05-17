@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\AssociativeArrays.exe.config
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\AssociativeArrays.exe
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\bin\Debug\AssociativeArrays.pdb
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\AssociativeArrays.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\AssociativeArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\AssociativeArrays.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\AssociativeArrays.exe
+C:\Users\Magi\source\repos\AssociativeArrays\AssociativeArrays\obj\Debug\AssociativeArrays.pdb

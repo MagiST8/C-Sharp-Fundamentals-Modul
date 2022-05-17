@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "09c60ba2-da62-44a7-a486-01b21010ca95": {
+      "ProjectGuid": "09c60ba2-da62-44a7-a486-01b21010ca95",
+      "DisplayName": "AssociativeArrays",
+      "ColorIndex": 0
+    },
+    "d2edf5b6-a6f4-41cd-af39-5b3169cd09b7": {
+      "ProjectGuid": "d2edf5b6-a6f4-41cd-af39-5b3169cd09b7",
+      "DisplayName": "02.OddOccurrences",
+      "ColorIndex": 1
+    },
+    "02acc0ab-8ea5-4c58-aecd-97e6eb55f96f": {
+      "ProjectGuid": "02acc0ab-8ea5-4c58-aecd-97e6eb55f96f",
+      "DisplayName": "03.WordSynonyms",
+      "ColorIndex": 2
+    },
+    "c357fcdd-87bd-4c18-9d62-9fd3180b298d": {
+      "ProjectGuid": "c357fcdd-87bd-4c18-9d62-9fd3180b298d",
+      "DisplayName": "04.WordFilter",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

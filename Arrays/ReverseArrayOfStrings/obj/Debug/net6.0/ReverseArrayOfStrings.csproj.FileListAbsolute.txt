@@ -1,0 +1,15 @@
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.exe
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.deps.json
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.runtimeconfig.json
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.dll
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\net6.0\ref\ReverseArrayOfStrings.dll
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\bin\Debug\net6.0\ReverseArrayOfStrings.pdb
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.AssemblyInfoInputs.cache
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.AssemblyInfo.cs
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.dll
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ref\ReverseArrayOfStrings.dll
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.pdb
+C:\Users\Magi\source\repos\Arrays\ReverseArrayOfStrings\obj\Debug\net6.0\ReverseArrayOfStrings.genruntimeconfig.cache

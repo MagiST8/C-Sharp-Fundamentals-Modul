@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\bin\Debug\08.FactorialDivision.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\bin\Debug\08.FactorialDivision.exe
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\bin\Debug\08.FactorialDivision.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\obj\Debug\08.FactorialDivision.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\obj\Debug\08.FactorialDivision.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\obj\Debug\08.FactorialDivision.exe
+C:\Users\Magi\source\repos\ExerciseMethod\08.FactorialDivision\obj\Debug\08.FactorialDivision.pdb

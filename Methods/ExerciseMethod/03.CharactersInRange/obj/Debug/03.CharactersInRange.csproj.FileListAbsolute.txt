@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\bin\Debug\03.CharactersInRange.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\bin\Debug\03.CharactersInRange.exe
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\bin\Debug\03.CharactersInRange.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\obj\Debug\03.CharactersInRange.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\obj\Debug\03.CharactersInRange.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\obj\Debug\03.CharactersInRange.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\obj\Debug\03.CharactersInRange.exe
+C:\Users\Magi\source\repos\ExerciseMethod\03.CharactersInRange\obj\Debug\03.CharactersInRange.pdb

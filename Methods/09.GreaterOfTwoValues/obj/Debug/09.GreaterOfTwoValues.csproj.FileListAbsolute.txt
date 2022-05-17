@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\bin\Debug\09.GreaterOfTwoValues.exe.config
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\bin\Debug\09.GreaterOfTwoValues.exe
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\bin\Debug\09.GreaterOfTwoValues.pdb
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\obj\Debug\09.GreaterOfTwoValues.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\obj\Debug\09.GreaterOfTwoValues.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\obj\Debug\09.GreaterOfTwoValues.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\obj\Debug\09.GreaterOfTwoValues.exe
+C:\Users\Magi\source\repos\Methods\09.GreaterOfTwoValues\obj\Debug\09.GreaterOfTwoValues.pdb

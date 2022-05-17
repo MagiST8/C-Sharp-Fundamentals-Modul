@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\bin\Debug\02.VowelsCount.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\bin\Debug\02.VowelsCount.exe
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\bin\Debug\02.VowelsCount.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\obj\Debug\02.VowelsCount.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\obj\Debug\02.VowelsCount.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\obj\Debug\02.VowelsCount.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\obj\Debug\02.VowelsCount.exe
+C:\Users\Magi\source\repos\ExerciseMethod\02.VowelsCount\obj\Debug\02.VowelsCount.pdb

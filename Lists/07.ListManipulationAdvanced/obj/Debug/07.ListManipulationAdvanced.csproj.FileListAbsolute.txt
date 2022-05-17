@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\07.ListManipulationAdvanced.exe.config
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\07.ListManipulationAdvanced.exe
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\bin\Debug\07.ListManipulationAdvanced.pdb
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\07.ListManipulationAdvanced.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\07.ListManipulationAdvanced.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\07.ListManipulationAdvanced.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\07.ListManipulationAdvanced.exe
+C:\Users\Magi\source\repos\Lists\07.ListManipulationAdvanced\obj\Debug\07.ListManipulationAdvanced.pdb

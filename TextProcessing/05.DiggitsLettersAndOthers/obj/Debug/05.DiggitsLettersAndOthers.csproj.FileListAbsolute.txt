@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\bin\Debug\05.DiggitsLettersAndOthers.exe.config
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\bin\Debug\05.DiggitsLettersAndOthers.exe
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\bin\Debug\05.DiggitsLettersAndOthers.pdb
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\obj\Debug\05.DiggitsLettersAndOthers.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\obj\Debug\05.DiggitsLettersAndOthers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\obj\Debug\05.DiggitsLettersAndOthers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\obj\Debug\05.DiggitsLettersAndOthers.exe
+C:\Users\Magi\source\repos\TextProcessing\05.DiggitsLettersAndOthers\obj\Debug\05.DiggitsLettersAndOthers.pdb

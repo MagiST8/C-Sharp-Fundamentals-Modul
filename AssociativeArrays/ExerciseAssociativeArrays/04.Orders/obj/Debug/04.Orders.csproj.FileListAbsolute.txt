@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\bin\Debug\04.Orders.exe.config
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\bin\Debug\04.Orders.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\bin\Debug\04.Orders.pdb
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\obj\Debug\04.Orders.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\obj\Debug\04.Orders.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\obj\Debug\04.Orders.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\obj\Debug\04.Orders.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\04.Orders\obj\Debug\04.Orders.pdb

@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\bin\Debug\04.ListOperations.exe.config
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\bin\Debug\04.ListOperations.exe
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\bin\Debug\04.ListOperations.pdb
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\obj\Debug\04.ListOperations.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\obj\Debug\04.ListOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\obj\Debug\04.ListOperations.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\obj\Debug\04.ListOperations.exe
+C:\Users\Magi\source\repos\ExerciseLists\04.ListOperations\obj\Debug\04.ListOperations.pdb

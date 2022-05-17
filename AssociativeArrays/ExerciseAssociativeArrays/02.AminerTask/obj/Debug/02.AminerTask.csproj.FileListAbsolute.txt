@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\bin\Debug\02.AminerTask.exe.config
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\bin\Debug\02.AminerTask.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\bin\Debug\02.AminerTask.pdb
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\obj\Debug\02.AminerTask.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\obj\Debug\02.AminerTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\obj\Debug\02.AminerTask.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\obj\Debug\02.AminerTask.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\02.AminerTask\obj\Debug\02.AminerTask.pdb

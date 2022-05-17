@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe.config
+C:\Users\Magi\source\repos\Arrays\Arrays\bin\Debug\Arrays.exe
+C:\Users\Magi\source\repos\Arrays\Arrays\bin\Debug\Arrays.pdb
+C:\Users\Magi\source\repos\Arrays\Arrays\obj\Debug\DayOfWeek.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Arrays\Arrays\obj\Debug\DayOfWeek.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Arrays\Arrays\obj\Debug\DayOfWeek.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Arrays\Arrays\obj\Debug\Arrays.exe
+C:\Users\Magi\source\repos\Arrays\Arrays\obj\Debug\Arrays.pdb

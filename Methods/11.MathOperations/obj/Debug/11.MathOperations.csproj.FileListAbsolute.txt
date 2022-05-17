@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\Methods\11.MathOperations\obj\Debug\11.MathOperations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\11.MathOperations\obj\Debug\11.MathOperations.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\11.MathOperations\bin\Debug\11.MathOperations.exe.config
+C:\Users\Magi\source\repos\Methods\11.MathOperations\bin\Debug\11.MathOperations.exe
+C:\Users\Magi\source\repos\Methods\11.MathOperations\bin\Debug\11.MathOperations.pdb
+C:\Users\Magi\source\repos\Methods\11.MathOperations\obj\Debug\11.MathOperations.exe
+C:\Users\Magi\source\repos\Methods\11.MathOperations\obj\Debug\11.MathOperations.pdb

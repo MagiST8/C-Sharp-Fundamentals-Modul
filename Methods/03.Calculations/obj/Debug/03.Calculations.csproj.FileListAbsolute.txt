@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Methods\03.Calculations\bin\Debug\03.Calculations.exe.config
+C:\Users\Magi\source\repos\Methods\03.Calculations\bin\Debug\03.Calculations.exe
+C:\Users\Magi\source\repos\Methods\03.Calculations\bin\Debug\03.Calculations.pdb
+C:\Users\Magi\source\repos\Methods\03.Calculations\obj\Debug\03.Calculations.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Methods\03.Calculations\obj\Debug\03.Calculations.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\03.Calculations\obj\Debug\03.Calculations.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\03.Calculations\obj\Debug\03.Calculations.exe
+C:\Users\Magi\source\repos\Methods\03.Calculations\obj\Debug\03.Calculations.pdb

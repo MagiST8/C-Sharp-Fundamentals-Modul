@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\bin\Debug\03.LegendaryFarming.exe.config
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\bin\Debug\03.LegendaryFarming.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\bin\Debug\03.LegendaryFarming.pdb
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\obj\Debug\03.LegendaryFarming.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\obj\Debug\03.LegendaryFarming.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\obj\Debug\03.LegendaryFarming.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\obj\Debug\03.LegendaryFarming.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\03.LegendaryFarming\obj\Debug\03.LegendaryFarming.pdb

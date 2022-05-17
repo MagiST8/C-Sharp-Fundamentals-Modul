@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\bin\Debug\07.VehicleCatalogue.exe.config
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\bin\Debug\07.VehicleCatalogue.exe
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\bin\Debug\07.VehicleCatalogue.pdb
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.exe
+C:\Users\Magi\source\repos\ObjectdAndClasses\07.VehicleCatalogue\obj\Debug\07.VehicleCatalogue.pdb

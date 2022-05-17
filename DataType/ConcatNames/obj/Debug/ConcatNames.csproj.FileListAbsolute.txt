@@ -1,0 +1,5 @@
+C:\Users\Magi\source\repos\DataType\ConcatNames\bin\Debug\ConcatNames.exe
+C:\Users\Magi\source\repos\DataType\ConcatNames\bin\Debug\ConcatNames.pdb
+C:\Users\Magi\source\repos\DataType\ConcatNames\obj\Debug\ConcatNames.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\ConcatNames\obj\Debug\ConcatNames.exe
+C:\Users\Magi\source\repos\DataType\ConcatNames\obj\Debug\ConcatNames.pdb

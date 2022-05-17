@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\bin\Debug\03.HouseParty.exe.config
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\bin\Debug\03.HouseParty.exe
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\bin\Debug\03.HouseParty.pdb
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\obj\Debug\03.HouseParty.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\obj\Debug\03.HouseParty.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\obj\Debug\03.HouseParty.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\obj\Debug\03.HouseParty.exe
+C:\Users\Magi\source\repos\ExerciseLists\03.HouseParty\obj\Debug\03.HouseParty.pdb

@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\bin\Debug\MaxSequenceOfEqualElements.pdb
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.exe
+C:\Users\Magi\source\repos\ExerciseArray\MaxSequenceOfEqualElements\obj\Debug\MaxSequenceOfEqualElements.pdb

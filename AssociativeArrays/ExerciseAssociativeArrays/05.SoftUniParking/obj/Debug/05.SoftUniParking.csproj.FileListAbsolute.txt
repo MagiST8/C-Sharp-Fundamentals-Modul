@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\bin\Debug\05.SoftUniParking.exe.config
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\bin\Debug\05.SoftUniParking.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\bin\Debug\05.SoftUniParking.pdb
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\obj\Debug\05.SoftUniParking.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\obj\Debug\05.SoftUniParking.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\obj\Debug\05.SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\obj\Debug\05.SoftUniParking.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\05.SoftUniParking\obj\Debug\05.SoftUniParking.pdb

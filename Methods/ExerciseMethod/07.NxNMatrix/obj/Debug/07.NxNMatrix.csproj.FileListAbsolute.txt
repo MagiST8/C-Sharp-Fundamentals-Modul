@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\obj\Debug\07.NxNMatrix.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\obj\Debug\07.NxNMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\bin\Debug\07.NxNMatrix.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\bin\Debug\07.NxNMatrix.exe
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\bin\Debug\07.NxNMatrix.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\obj\Debug\07.NxNMatrix.exe
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\obj\Debug\07.NxNMatrix.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\07.NxNMatrix\obj\Debug\07.NxNMatrix.csproj.AssemblyReference.cache

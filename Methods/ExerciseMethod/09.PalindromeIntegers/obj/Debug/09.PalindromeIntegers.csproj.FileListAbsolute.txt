@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\bin\Debug\09.PalindromeIntegers.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\bin\Debug\09.PalindromeIntegers.exe
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\bin\Debug\09.PalindromeIntegers.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\obj\Debug\09.PalindromeIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\obj\Debug\09.PalindromeIntegers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\obj\Debug\09.PalindromeIntegers.exe
+C:\Users\Magi\source\repos\ExerciseMethod\09.PalindromeIntegers\obj\Debug\09.PalindromeIntegers.pdb

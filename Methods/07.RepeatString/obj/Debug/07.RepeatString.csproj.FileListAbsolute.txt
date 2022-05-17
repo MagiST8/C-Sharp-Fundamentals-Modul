@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Methods\07.RepeatString\bin\Debug\07.RepeatString.exe.config
+C:\Users\Magi\source\repos\Methods\07.RepeatString\bin\Debug\07.RepeatString.exe
+C:\Users\Magi\source\repos\Methods\07.RepeatString\bin\Debug\07.RepeatString.pdb
+C:\Users\Magi\source\repos\Methods\07.RepeatString\obj\Debug\07.RepeatString.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Methods\07.RepeatString\obj\Debug\07.RepeatString.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Methods\07.RepeatString\obj\Debug\07.RepeatString.exe
+C:\Users\Magi\source\repos\Methods\07.RepeatString\obj\Debug\07.RepeatString.pdb
+C:\Users\Magi\source\repos\Methods\07.RepeatString\obj\Debug\07.RepeatString.csproj.AssemblyReference.cache

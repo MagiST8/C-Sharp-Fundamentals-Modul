@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\bin\Debug\ZigZagArray.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\bin\Debug\ZigZagArray.exe
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\bin\Debug\ZigZagArray.pdb
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\obj\Debug\ZigZagArray.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\obj\Debug\ZigZagArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\obj\Debug\ZigZagArray.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\obj\Debug\ZigZagArray.exe
+C:\Users\Magi\source\repos\ExerciseArray\ZigZagArray\obj\Debug\ZigZagArray.pdb

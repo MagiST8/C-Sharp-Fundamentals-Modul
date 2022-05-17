@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\bin\Debug\06.Courses.exe.config
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\bin\Debug\06.Courses.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\bin\Debug\06.Courses.pdb
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\obj\Debug\06.Courses.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\obj\Debug\06.Courses.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\obj\Debug\06.Courses.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\obj\Debug\06.Courses.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\06.Courses\obj\Debug\06.Courses.pdb

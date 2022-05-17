@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\bin\Debug\07.StudentAcademy.exe.config
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\bin\Debug\07.StudentAcademy.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\bin\Debug\07.StudentAcademy.pdb
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\obj\Debug\07.StudentAcademy.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\obj\Debug\07.StudentAcademy.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\obj\Debug\07.StudentAcademy.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\obj\Debug\07.StudentAcademy.exe
+C:\Users\Magi\source\repos\ExerciseAssociativeArrays\07.StudentAcademy\obj\Debug\07.StudentAcademy.pdb

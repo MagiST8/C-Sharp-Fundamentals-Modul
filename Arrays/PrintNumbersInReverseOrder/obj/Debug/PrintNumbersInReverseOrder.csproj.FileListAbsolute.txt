@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\PrintNumbersInReverseOrder.exe.config
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\PrintNumbersInReverseOrder.exe
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\bin\Debug\PrintNumbersInReverseOrder.pdb
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\PrintNumbersInReverseOrder.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\PrintNumbersInReverseOrder.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\PrintNumbersInReverseOrder.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\PrintNumbersInReverseOrder.exe
+C:\Users\Magi\source\repos\Arrays\PrintNumbersInReverseOrder\obj\Debug\PrintNumbersInReverseOrder.pdb

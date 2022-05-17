@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\bin\Debug\02.Articles.exe.config
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\bin\Debug\02.Articles.exe
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\bin\Debug\02.Articles.pdb
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\obj\Debug\02.Articles.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\obj\Debug\02.Articles.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\obj\Debug\02.Articles.exe
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\obj\Debug\02.Articles.pdb
+C:\Users\Magi\source\repos\ExerciseObjects\02.Articles\obj\Debug\02.Articles.csproj.AssemblyReference.cache

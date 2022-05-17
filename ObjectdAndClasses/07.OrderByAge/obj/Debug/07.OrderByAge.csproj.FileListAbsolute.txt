@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\bin\Debug\07.OrderByAge.exe.config
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\bin\Debug\07.OrderByAge.exe
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\bin\Debug\07.OrderByAge.pdb
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\obj\Debug\07.OrderByAge.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\obj\Debug\07.OrderByAge.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\obj\Debug\07.OrderByAge.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\obj\Debug\07.OrderByAge.exe
+C:\Users\Magi\source\repos\ExerciseObjects\07.OrderByAge\obj\Debug\07.OrderByAge.pdb

@@ -1,0 +1,6 @@
+C:\Users\Magi\source\repos\DataType\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\DataType\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.exe
+C:\Users\Magi\source\repos\DataType\RefactorSpecialNumbers\bin\Debug\RefactorSpecialNumbers.pdb
+C:\Users\Magi\source\repos\DataType\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.exe
+C:\Users\Magi\source\repos\DataType\RefactorSpecialNumbers\obj\Debug\RefactorSpecialNumbers.pdb

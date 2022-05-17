@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ae409250-9ede-4b6b-aebe-af6481254501": {
+      "ProjectGuid": "ae409250-9ede-4b6b-aebe-af6481254501",
+      "DisplayName": "DayOfWeek",
+      "ColorIndex": 0
+    },
+    "681d34eb-8319-42cc-b170-0536441a1db2": {
+      "ProjectGuid": "681d34eb-8319-42cc-b170-0536441a1db2",
+      "DisplayName": "PrintNumbersInReverseOrder",
+      "ColorIndex": 1
+    },
+    "dfd950f8-9a18-42c7-84a6-7d933386302d": {
+      "ProjectGuid": "dfd950f8-9a18-42c7-84a6-7d933386302d",
+      "DisplayName": "RoundingNumbers",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "0b02f4b7-463e-4023-810e-70eb8994cf81": {
+      "ProjectGuid": "0b02f4b7-463e-4023-810e-70eb8994cf81",
+      "DisplayName": "ReverseArrayOfStrings",
+      "ColorIndex": 3
+    },
+    "34943bff-e99e-4194-8c54-376270b4b0c5": {
+      "ProjectGuid": "34943bff-e99e-4194-8c54-376270b4b0c5",
+      "DisplayName": "SumEvenNumbers",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\bin\Debug\CammonElements.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\bin\Debug\CammonElements.exe
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\bin\Debug\CammonElements.pdb
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\obj\Debug\CammonElements.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\obj\Debug\CammonElements.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\obj\Debug\CammonElements.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\obj\Debug\CammonElements.exe
+C:\Users\Magi\source\repos\ExerciseArray\CammonElements\obj\Debug\CammonElements.pdb

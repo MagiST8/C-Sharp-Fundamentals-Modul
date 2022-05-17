@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\bin\Debug\05.TeamworkProjects.exe.config
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\bin\Debug\05.TeamworkProjects.exe
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\bin\Debug\05.TeamworkProjects.pdb
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\obj\Debug\05.TeamworkProjects.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\obj\Debug\05.TeamworkProjects.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\obj\Debug\05.TeamworkProjects.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\obj\Debug\05.TeamworkProjects.exe
+C:\Users\Magi\source\repos\ExerciseObjects\05.TeamworkProjects\obj\Debug\05.TeamworkProjects.pdb

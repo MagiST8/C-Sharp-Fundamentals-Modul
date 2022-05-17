@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\bin\Debug\LadyBugs.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\bin\Debug\LadyBugs.exe
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\bin\Debug\LadyBugs.pdb
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\obj\Debug\LadyBugs.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\obj\Debug\LadyBugs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\obj\Debug\LadyBugs.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\obj\Debug\LadyBugs.exe
+C:\Users\Magi\source\repos\ExerciseArray\LadyBugs\obj\Debug\LadyBugs.pdb

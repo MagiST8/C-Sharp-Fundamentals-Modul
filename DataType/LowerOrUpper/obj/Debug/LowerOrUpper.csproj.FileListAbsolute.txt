@@ -1,0 +1,6 @@
+C:\Users\Magi\source\repos\DataType\LowerOrUpper\obj\Debug\LowerOrUpper.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\DataType\LowerOrUpper\obj\Debug\LowerOrUpper.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\DataType\LowerOrUpper\bin\Debug\LowerOrUpper.exe
+C:\Users\Magi\source\repos\DataType\LowerOrUpper\bin\Debug\LowerOrUpper.pdb
+C:\Users\Magi\source\repos\DataType\LowerOrUpper\obj\Debug\LowerOrUpper.exe
+C:\Users\Magi\source\repos\DataType\LowerOrUpper\obj\Debug\LowerOrUpper.pdb

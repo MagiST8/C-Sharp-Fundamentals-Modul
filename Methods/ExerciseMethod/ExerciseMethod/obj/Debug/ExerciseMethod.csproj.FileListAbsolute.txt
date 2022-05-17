@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\bin\Debug\ExerciseMethod.exe.config
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\bin\Debug\ExerciseMethod.exe
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\bin\Debug\ExerciseMethod.pdb
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\obj\Debug\ExerciseMethod.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\obj\Debug\ExerciseMethod.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\obj\Debug\ExerciseMethod.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\obj\Debug\ExerciseMethod.exe
+C:\Users\Magi\source\repos\ExerciseMethod\ExerciseMethod\obj\Debug\ExerciseMethod.pdb

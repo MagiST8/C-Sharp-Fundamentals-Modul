@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\bin\Debug\EqualSum.exe.config
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\bin\Debug\EqualSum.exe
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\bin\Debug\EqualSum.pdb
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\obj\Debug\EqualSum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\obj\Debug\EqualSum.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\obj\Debug\EqualSum.exe
+C:\Users\Magi\source\repos\ExerciseArray\EqualSum\obj\Debug\EqualSum.pdb

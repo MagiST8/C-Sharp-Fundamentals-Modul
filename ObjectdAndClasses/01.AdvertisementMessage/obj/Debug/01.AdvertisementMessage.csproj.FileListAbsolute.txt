@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\bin\Debug\01.AdvertisementMessage.exe.config
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\bin\Debug\01.AdvertisementMessage.exe
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\bin\Debug\01.AdvertisementMessage.pdb
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\obj\Debug\01.AdvertisementMessage.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\obj\Debug\01.AdvertisementMessage.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\obj\Debug\01.AdvertisementMessage.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\obj\Debug\01.AdvertisementMessage.exe
+C:\Users\Magi\source\repos\ExerciseObjects\01.AdvertisementMessage\obj\Debug\01.AdvertisementMessage.pdb

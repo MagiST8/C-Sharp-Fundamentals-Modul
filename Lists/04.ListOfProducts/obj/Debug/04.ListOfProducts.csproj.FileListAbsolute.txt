@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\bin\Debug\04.ListOfProducts.exe.config
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\bin\Debug\04.ListOfProducts.exe
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\bin\Debug\04.ListOfProducts.pdb
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\obj\Debug\04.ListOfProducts.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\obj\Debug\04.ListOfProducts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\obj\Debug\04.ListOfProducts.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\obj\Debug\04.ListOfProducts.exe
+C:\Users\Magi\source\repos\Lists\04.ListOfProducts\obj\Debug\04.ListOfProducts.pdb

@@ -1,0 +1,7 @@
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe.config
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.exe
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\bin\Debug\RoundingNumbers.pdb
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.exe
+C:\Users\Magi\source\repos\Arrays\RoundingNumbers\obj\Debug\RoundingNumbers.pdb

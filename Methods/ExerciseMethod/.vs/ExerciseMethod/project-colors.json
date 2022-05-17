@@ -1,0 +1,56 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "47648b06-54ef-446d-a95a-719534b8d77d": {
+      "ProjectGuid": "47648b06-54ef-446d-a95a-719534b8d77d",
+      "DisplayName": "ExerciseMethod",
+      "ColorIndex": 0
+    },
+    "12724dce-8ce3-49e4-9e71-671fd58d3ceb": {
+      "ProjectGuid": "12724dce-8ce3-49e4-9e71-671fd58d3ceb",
+      "DisplayName": "02.VowelsCount",
+      "ColorIndex": 1
+    },
+    "9ff0aadf-4773-498f-be0c-bef695153b36": {
+      "ProjectGuid": "9ff0aadf-4773-498f-be0c-bef695153b36",
+      "DisplayName": "03.CharactersInRange",
+      "ColorIndex": 2
+    },
+    "ab4435d4-9dac-4bfe-b849-b88a186037cc": {
+      "ProjectGuid": "ab4435d4-9dac-4bfe-b849-b88a186037cc",
+      "DisplayName": "04.PasswordValidator",
+      "ColorIndex": 3
+    },
+    "55e1aa63-71ce-4b22-97b3-76f50b931744": {
+      "ProjectGuid": "55e1aa63-71ce-4b22-97b3-76f50b931744",
+      "DisplayName": "05.AddAndSubtract",
+      "ColorIndex": 4
+    },
+    "554a7378-256e-422e-9993-43ae756e98a2": {
+      "ProjectGuid": "554a7378-256e-422e-9993-43ae756e98a2",
+      "DisplayName": "06.MiddleCharacters",
+      "ColorIndex": 5
+    },
+    "babede4d-e687-4a82-b16f-95242f66bed3": {
+      "ProjectGuid": "babede4d-e687-4a82-b16f-95242f66bed3",
+      "DisplayName": "07.NxNMatrix",
+      "ColorIndex": 6
+    },
+    "56e00871-e71c-4037-a293-8eef601faaab": {
+      "ProjectGuid": "56e00871-e71c-4037-a293-8eef601faaab",
+      "DisplayName": "08.FactorialDivision",
+      "ColorIndex": 7
+    },
+    "601ec41a-38b6-40a0-8932-7833fe772744": {
+      "ProjectGuid": "601ec41a-38b6-40a0-8932-7833fe772744",
+      "DisplayName": "09.PalindromeIntegers",
+      "ColorIndex": 8
+    },
+    "3dd97bd9-4b51-40d7-9640-33219dccc7c4": {
+      "ProjectGuid": "3dd97bd9-4b51-40d7-9640-33219dccc7c4",
+      "DisplayName": "10.TopNumber",
+      "ColorIndex": 9
+    }
+  },
+  "NextColorIndex": 10
+}

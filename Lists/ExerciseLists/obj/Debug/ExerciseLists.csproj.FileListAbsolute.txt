@@ -1,0 +1,8 @@
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\bin\Debug\ExerciseLists.exe.config
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\bin\Debug\ExerciseLists.exe
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\bin\Debug\ExerciseLists.pdb
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\obj\Debug\ExerciseLists.csproj.AssemblyReference.cache
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\obj\Debug\ExerciseLists.csproj.SuggestedBindingRedirects.cache
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\obj\Debug\ExerciseLists.csproj.CoreCompileInputs.cache
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\obj\Debug\ExerciseLists.exe
+C:\Users\Magi\source\repos\ExerciseLists\ExerciseLists\obj\Debug\ExerciseLists.pdb
